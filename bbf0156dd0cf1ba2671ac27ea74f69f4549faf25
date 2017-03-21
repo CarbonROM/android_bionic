@@ -1,0 +1,4 @@
+{
+  "pushCert": "certificate version 0.1\npusher F40FB8E3 1490124675 -0700\npushee ssh://review.carbonrom.org:29418/CarbonROM/android_bionic\nnonce 1490124673-F29C6C680BDF2C6A14EBA51A63DD4E1792A3EF51\n\n0000000000000000000000000000000000000000 bbf0156dd0cf1ba2671ac27ea74f69f4549faf25 refs/for/cr-5.1%topic\u003dbionic\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJY0X+DAAoJEBncrnT0D7jjhigH/13zcmr9U/6ventRtAXSIY4Z\n1sp+bYmR8bbauBpektQrthjyYW8oGeBzVepfHcKCKrz0BgCirVnt9Jj+6KK9fHwb\niHasm0++bbb64ubmrrYU8f+pUPhODuQw9KS/DoOAoOV7L3GAoph2EwXyiw9RuK05\n+uQYkE/v3jfVqbeTCe9E4yyXkhqN2OvYC2A64IKcPpVGwRlubwH3nHHbeDkqsZfb\n8tVvJxuD5xEQ9EPaJiXpJKqWCgmdbKbw5NffFU9QnT6fsG5Mima4SukCuhdO1MjS\nMygHWPI9MsOnows65B/jxnFn0radSKhX/YwKPLKOy7fxFy/TopXBwW32HDJcqfk\u003d\n\u003dIkon\n-----END PGP SIGNATURE-----\n",
+  "comments": []
+}
