@@ -270,3 +270,10 @@ TEST(sched, cpu_equal_s) {
   CPU_FREE(set1);
   CPU_FREE(set2);
 }
+
+TEST(sched, sched_getattr_sched_setattr) {
+  sched_attr sa;
+
+  ASSERT_EQ(sched_getattr(getpid()), &sa, sizeof(sa), 0);
+  ASSERT_EQ(sched_setattr(getpid()), &sa, 0);
+}
