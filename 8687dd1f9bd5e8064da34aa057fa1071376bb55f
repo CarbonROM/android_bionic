@@ -1,0 +1,4 @@
+{
+  "pushCert": "certificate version 0.1\npusher CertifiedBlyndGuy \u003ccertifiedblyndguy@gmail.com\u003e 1518397081 -0700\npushee ssh://review.carbonrom.org:29418/CarbonROM/android_bionic\nnonce 1518397085-9295CEB85C01F3A476123A73882FE496975F7BCA\n\n0000000000000000000000000000000000000000 8687dd1f9bd5e8064da34aa057fa1071376bb55f refs/for/cr-6.1\n-----BEGIN PGP SIGNATURE-----\n\niQFQBAABCAA6FiEEu/2f7hnzOMa7tLeVBh91hlgMh7MFAlqA5pkcHGNlcnRpZmll\nZGJseW5kZ3V5QGdtYWlsLmNvbQAKCRAGH3WGWAyHs0TYB/0TqNAUJ0NAfx2j8ld7\nSquVTimytetw+FH3X+CRZ4UWc2W+V8/5a6ehERFsc55YDoWtk1or6CQgUKO2VKPB\n6P/TSojysLYgpplySTPXzlG6ELyL/9lQ1EGQXE9TRLoVjMUxJyACDHnIghQcRoo/\n68+g/QDAM4Ek/BsnrGGTvBtciw/unUJL2ljLln9mmVd4cSh0U2abAbhOKas1G0iR\naeti12qd7fQzgfy4e3r7Q+x8K3nGobd829aMy5OBQY91naIHsPi++FkemyG0zIvV\nWWRnuSj3iP+O7+CNft+5LUIeQc0bevZRx6yIsBQyKXPiohsetxwBNalm5jOdfMwj\nctdr\n\u003doGHl\n-----END PGP SIGNATURE-----\n",
+  "comments": []
+}
