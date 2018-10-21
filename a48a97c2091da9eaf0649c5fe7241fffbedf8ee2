@@ -1,0 +1,4 @@
+{
+  "pushCert": "certificate version 0.1\npusher Adin Kwok \u003cadin.kwok@carbonrom.org\u003e 1540105391 -0700\npushee ssh://review.carbonrom.org:29418/CarbonROM/android_bionic\nnonce 1540105380-E6C2F62C563501A0CC5E1259B99FE858A0882198\n\n0000000000000000000000000000000000000000 a48a97c2091da9eaf0649c5fe7241fffbedf8ee2 refs/for/cr-7.0%topic\u003dbionic/arm64\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJbzCSvAAoJEDot0Z/WAwgww5AH/Rzcfh/2k7QuPS/lI4iKxog6\nT5/qKbqg4XGb1PQGdT1wuD1EETsHwfFwFEYaSwJHcIAqPsyGvz8FUK5I7LEHe/85\n8J3tQveuC1HYS1B7IH3HdIqHWIwPpnO1iUxBKf9tldcGP0k00Qm1U58dM9Jfxhvc\nFRoMaDRqiCnqkgIz16KN3zyDGRONJprLZ/c4fcxv7rHPDHOqNxB7FyvWZimjtt6L\nUG46yIqrqTFpQqi8hfyxznIQfxSRRAhqgKtgEqG4FdFQeuy4BFi9ZmCdLY4yOL8g\nAeGj1HEvNkdNjd36mwtg78Y1jK2ETPLo/xgpW16Iu4JtLppknmGjG9wSJmBX1Ec\u003d\n\u003dZaDV\n-----END PGP SIGNATURE-----\n",
+  "comments": []
+}
